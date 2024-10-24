@@ -18,10 +18,10 @@
 
 <div align="center">
 
-  ![bygabrielfs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bygabrielfs&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
-
   ![bygabrielfs's Stats](https://github-readme-stats.vercel.app/api?username=bygabrielfs&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+  
   ![bygabrielfs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bygabrielfs&theme=blue-green&hide_border=false)
+  ![bygabrielfs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bygabrielfs&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
   <img src="https://github-profile-trophy.vercel.app?username=bygabrielfs&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bygabrielfs&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
