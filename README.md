@@ -18,12 +18,12 @@
 
 <div align="center">
 
-  ![ga6rielferreira's Stats](https://github-readme-stats.vercel.app/api?username=ga6rielferreira&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+  ![gabrieldiferreira's Stats](https://github-readme-stats.vercel.app/api?username=gabrieldiferreira&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
   
-  ![ga6rielferreira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ga6rielferreira&theme=blue-green&hide_border=false)
-  ![ga6rielferreira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ga6rielferreira&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
-  <img src="https://github-profile-trophy.vercel.app?username=ga6rielferreira&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ga6rielferreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  ![gabrieldiferreira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldiferreira&theme=blue-green&hide_border=false)
+  ![gabrieldiferreira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiferreira&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+  <img src="https://github-profile-trophy.vercel.app?username=gabrieldiferreira&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldiferreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ga6rielferreira/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrieldiferreira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gabrieldiferreira/" target="_blank">
