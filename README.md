@@ -5,69 +5,57 @@
 <h1 align="center">Gabriel Ferreira</h1>
 
 <p align="center">
-  <b>Mobile Developer | AI | Kotlin</b><br>
-  Building the future through innovation and technology 🌌
+  <b>Mobile Developer | Freelancer | Kotlin Multiplatform Specialist</b><br>
+  Engineering high-performance native experiences for Android & iOS 🚀
 </p>
-
----
-
-<h3 align="center">🚀 About Me</h3>
-
-<p align="center">
-  I'm a passionate <b>mobile developer</b> who built my first app at 12. <br>
-  Curious by nature and driven by technology — I love working with <b>AI, Kotlin, and Android</b>. <br>
-  My goal is to create impactful, intelligent, and high-performance applications.
-</p>
-
----
-
-<h3 align="center">🧠 Portfolio</h3>
 
 <div align="center">
-  <a href="https://gabrieldiferreira.github.io/mobileportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-%231E2A3A?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0A0F1C" alt="Portfolio badge" />
-  </a>
-</div>
-
-<p align="center">
-  Explore my latest work and projects built with AI, Kotlin, and Flutter.<br>
-  Designed with a futuristic and minimal touch — just like Hyperland ✨
-</p>
-
----
-
-<h3 align="center">⚡ GitHub Stats</h3>
-
-<div align="center">
-
-  ![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabrieldiferreira&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  
-  ![Gabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldiferreira&theme=tokyonight&hide_border=false)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiferreira&theme=tokyonight&layout=compact&hide_border=false)
-
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldiferreira&theme=tokyonight&margin-w=8&margin-h=8&no-frame=false" height="150" alt="trophy graph" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldiferreira&theme=tokyo-night&radius=16&hide_border=false" height="300" alt="activity graph" />
+  <img src="https://img.shields.io/badge/📍-Goiânia,%20Brazil-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓-Unisinos-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯-English%202026-brightgreen?style=for-the-badge" />
 </div>
 
 ---
 
-<h3 align="center">💻 I Code With</h3>
+### 🚀 Professional Profile
+I am a **Mobile Developer** and **Freelancer** with **5 years of experience** in the technology sector, based in **Goiânia**. My expertise lies in building cross-platform applications with **Kotlin Multiplatform (KMP)**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,dart,aws,gcp,azure,firebase,docker,git,linux,figma,postman,arduino,react" />
-</div>
+* 🎓 **Education**: Pursuing a Bachelor's in **Information Systems** at **Unisinos** (Expected 2026).
+* 🛠️ **Current Project**: Developing **NutriMaster**, a premium KMP e-commerce app.
+* 🐧 **Environment**: Power user of **Macbook M4 16 GB** with a focus on clean, high-performance setups.
+
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+### 💻 Tech Stack & Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | Kotlin, Swift, Android SDK, KMP, Compose Multiplatform |
+| **Backend & Data** | Ktor, Firebase, Room, SQLite, Google Cloud Platform (GCP) |
+| **Tools** | Git, Docker, Figma, Postman, Linux (Pop!_OS) |
+
+---
+
+### 📊 Featured Project: NutriMaster
+The ultimate supplement shopping experience built with a shared-logic architecture.
+* **Status**: In Development (Feature: Profile Form)
+* **Core**: 100% Shared UI/UX across Android and iOS targets.
+* 👉 [**Explore the Repository**](https://github.com/gabrieldiferreira/NutriMaster-Premium-E-Commerce-Experience)
+
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrieldiferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E2A3A?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/gabrieldiferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%231E2A3A?style=for-the-badge&logo=instagram&logoColor=FF00A0" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF00A0?style=for-the-badge&logo=instagram" />
   </a>
 </div>
+
+<p align="center">
+  <i>"Building the future through innovation and high-performance code."</i>
+</p>
