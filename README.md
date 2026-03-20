@@ -7,7 +7,15 @@
 <p align="center">
   <b>Mobile Developer | Freelancer | Kotlin Multiplatform Specialist</b><br>
   Engineering high-performance native experiences for Android & iOS 🚀
-  * 👉 [**Explore the ALL Repository**](https://github.com/gabrieldiferreira?tab=repositories)
+  
+  <p align="center">
+  <br>
+  <a href="https://github.com/gabrieldiferreira?tab=repositories">
+    <strong> 👉 Explore the ALL Repository</strong>
+  </a>
+  <br>
+</p>
+
 </p>
 
 <div align="center">
