@@ -7,15 +7,22 @@
 <p align="center">
   <b>Mobile Developer | Freelancer | Kotlin Multiplatform Specialist</b><br>
   Engineering high-performance native experiences for Android & iOS 🚀
-  
-  <p align="center">
-  <br>
-  <a href="https://github.com/gabrieldiferreira?tab=repositories">
-    <strong> 👉 Explore the ALL Repository</strong>
-  </a>
-  <br>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose">
+  <img src="https://img.shields.io/badge/KMM-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMM">
+</p>
+
+<p align="center">
+  <br>
+  <a href="https://github.com/gabrieldiferreira?tab=repositories">
+    <strong>👉 Explore the ALL Repository</strong>
+  </a>
+  <br>
 </p>
 
 <div align="center">
