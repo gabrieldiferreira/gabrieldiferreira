@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 Professional Profile
-I am a **Mobile Developer** and **Freelancer** with **5 years of experience** in the technology sector, based in **Goiânia**. My expertise lies in building cross-platform applications with **Kotlin Multiplatform (KMP)**.
+I am a **Mobile Developer** and **Freelancer** with **5 years of experience at @Grupo Jaime Câmara @TVANHANGUERA @OPOPULAR** in the technology sector, based in **Goiânia**. My expertise lies in building cross-platform applications with **Kotlin Multiplatform (KMP)**.
 
 * 🎓 **Education**: Pursuing a Bachelor's in **Information Systems** at **Unisinos** (Expected 2026).
 * 🛠️ **Current Project**: Developing **NutriMaster**, a premium KMP e-commerce app.
